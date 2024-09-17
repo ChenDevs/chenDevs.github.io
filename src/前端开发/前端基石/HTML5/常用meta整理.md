@@ -1,14 +1,9 @@
 ---
 title: 常用meta整理
 date: 2020-02-21 12:20:10
-permalink: /pages/8309a5b876fc95e3
 category:
   - 页面
   - HTML
-
-author:
-  name: xugaoyi
-  link: https://github.com/xugaoyi
 ---
 
 # 常用 meta 整理

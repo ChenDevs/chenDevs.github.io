@@ -1,14 +1,9 @@
 ---
 title: flex布局案例-骰子
 date: 2019-12-25 14:27:01
-permalink: /pages/eff61bc8b4f4695d
 category:
   - 页面
   - CSS
-
-author:
-  name: frontchen
-  link: https://github.com/frontchen
 ---
 
 # flex 布局案例-骰子

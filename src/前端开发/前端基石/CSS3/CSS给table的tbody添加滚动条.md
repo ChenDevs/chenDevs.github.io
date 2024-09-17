@@ -1,13 +1,9 @@
 ---
 title: CSS给table的tbody添加滚动条
 date: 2022-06-29 09:34:23
-permalink: /pages/55f894/
 category:
   - 页面
   - CSS
-author:
-  name: frontchen
-  link: https://github.com/frontchen
 ---
 
 ```css

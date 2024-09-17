@@ -1,14 +1,9 @@
 ---
 title: CSS-function汇总
 date: 2020-05-12 09:36:44
-permalink: /pages/3da0d7
 category:
   - 页面
   - CSS
-
-author:
-  name: xugaoyi
-  link: https://github.com/xugaoyi
 ---
 
 ![](https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200512161232.jpg)

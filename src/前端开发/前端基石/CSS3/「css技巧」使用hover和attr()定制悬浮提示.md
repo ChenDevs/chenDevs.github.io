@@ -1,14 +1,9 @@
 ---
 title: 「css技巧」使用hover和attr()定制悬浮提示
 date: 2020-04-18 12:14:09
-permalink: /pages/941581927b4a38f8
 category:
   - 页面
   - CSS
-
-author:
-  name: frontchen
-  link: https://github.com/frontchen
 ---
 
 # 「css 技巧」使用 hover 和 attr()定制悬浮提示-demo

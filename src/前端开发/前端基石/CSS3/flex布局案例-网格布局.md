@@ -1,14 +1,9 @@
 ---
 title: flex布局案例-网格布局
 date: 2019-12-25 14:27:01
-permalink: /pages/85b5a3fe218a34b7
 category:
   - 页面
   - CSS
-
-author:
-  name: frontchen
-  link: https://github.com/frontchen
 ---
 
 # flex 布局案例-网格布局

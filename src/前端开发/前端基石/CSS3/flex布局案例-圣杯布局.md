@@ -1,14 +1,9 @@
 ---
 title: flex布局案例-圣杯布局
 date: 2019-12-25 14:27:01
-permalink: /pages/df9e7c7214fa5046
 category:
   - 页面
   - CSS
-
-author:
-  name: frontchen
-  link: https://github.com/frontchen
 ---
 
 # flex 布局案例-圣杯布局

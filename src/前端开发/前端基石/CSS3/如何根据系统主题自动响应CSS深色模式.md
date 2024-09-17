@@ -1,15 +1,11 @@
 ---
 title: 如何根据系统主题自动响应CSS深色模式
 date: 2020-03-31 14:06:26
-permalink: /pages/5dde351274f1e39d
 category:
   - 页面
   - CSS
 tag:
   - css
-author:
-  name: xugaoyi
-  link: https://github.com/xugaoyi
 ---
 
 # 如何根据系统主题自动响应 CSS 深色模式
