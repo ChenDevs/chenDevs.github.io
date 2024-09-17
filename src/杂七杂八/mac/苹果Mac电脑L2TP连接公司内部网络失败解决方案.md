@@ -1,9 +1,9 @@
 ---
 title: 苹果 Mac 电脑 L2TP 连接公司内部网络失败解决方案
 category:
-- vpn
-- mac
-  order: 5
+  - vpn
+  - mac
+order: 5
 ---
 
 ## 苹果 Mac 电脑[L2TP](https://so.csdn.net/so/search?q=L2TP&spm=1001.2101.3001.7020)连接公司内部网络

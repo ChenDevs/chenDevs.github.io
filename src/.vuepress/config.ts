@@ -3,7 +3,7 @@ import theme from './theme.js'
 import path from 'path'
 // import resolveExternalsPlugin from 'vite-plugin-resolve-externals'
 import { searchProPlugin } from 'vuepress-plugin-search-pro'
-import { cut } from 'nodejs-jieba'
+import { cut } from '@node-rs/jieba'
 // import markdownIt from 'markdown-it'
 // const markdownRender = markdownIt()
 // console.log(['markdownIt', markdownRender])
@@ -57,24 +57,23 @@ const customComfig = defineUserConfig({
       sortStrategy: 'total',
       customFields: [
         {
-          name: 'author',
-          getter: page => page.frontmatter.author,
+          getter: (page: any) => page.frontmatter.author,
           formatter: '作者：$content'
         },
         {
-          getter: page => page.frontmatter.category,
+          getter: (page: any) => page.frontmatter.category,
           formatter: {
             '/': '分类：$content'
           }
         },
         {
-          getter: page => page.frontmatter.tag,
+          getter: (page: any) => page.frontmatter.tag,
           formatter: {
             '/': '标签：$content'
           }
         },
         {
-          getter: page => page.frontmatter.title,
+          getter: (page: any) => page.frontmatter.title,
           formatter: {
             '/': '标题：$content'
           }

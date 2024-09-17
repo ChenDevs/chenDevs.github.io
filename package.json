@@ -25,10 +25,10 @@
     "vuepress-theme-hope": "2.0.0-rc.2"
   },
   "dependencies": {
+    "@node-rs/jieba": "^1.10.3",
     "add": "^2.0.6",
     "axios": "^1.6.2",
     "element-plus": "^2.4.3",
-    "nodejs-jieba": "^0.1.2",
     "react": "^18.2.0"
   }
 }
