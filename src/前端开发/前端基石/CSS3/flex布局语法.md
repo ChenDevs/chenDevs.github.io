@@ -4,7 +4,7 @@ date: 2019-12-25 14:27:01
 permalink: /pages/0a83b083bdf257cb
 author:
   name: 阮一峰
-categories:
+category:
   - 页面
   - CSS
 tag:

@@ -2,7 +2,7 @@
 title: CSS-function汇总
 date: 2020-05-12 09:36:44
 permalink: /pages/3da0d7
-categories:
+category:
   - 页面
   - CSS
 tag:

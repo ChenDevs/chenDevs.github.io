@@ -1,7 +1,7 @@
 ---
 title: 从box-sizing属性入手，了解盒子模型
 date: 2020-02-27 17:08:48
-categories:
+category:
   - 页面
   - CSS
 tag:

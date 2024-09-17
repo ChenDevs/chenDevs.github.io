@@ -2,7 +2,7 @@
 title: CSS教程和技巧收藏
 date: 2020-08-11 17:13:52
 permalink: /pages/c8f128/
-categories:
+category:
   - 页面
   - CSS
 tag:
