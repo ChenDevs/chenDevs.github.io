@@ -5,7 +5,7 @@ category:
   - 页面
   - CSS
 tag:
-  - null
+  - js
 author:
   name: frontchen
   link: https://github.com/frontchen
