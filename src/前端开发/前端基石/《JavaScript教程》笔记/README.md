@@ -1,7 +1,6 @@
 ---
 title: 《JavaScript教程》笔记
 date: 2020-01-12 11:51:53
-article: false
-comment: false
-editLink: false
+index: false
+icon: be
 ---

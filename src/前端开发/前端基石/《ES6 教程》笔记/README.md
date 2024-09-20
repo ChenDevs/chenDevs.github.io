@@ -1,7 +1,6 @@
 ---
 title: 《ES6 教程》笔记
 date: 2020-01-12 15:49:22
-article: false
-comment: false
-editLink: false
+index: false
+icon: be
 ---
