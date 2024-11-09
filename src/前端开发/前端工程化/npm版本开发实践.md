@@ -1,6 +1,5 @@
 ---
 title: npm版本开发实践
-star: true
 tag: 前端工程化
 date: 2023-12-16
 category: 前端开发

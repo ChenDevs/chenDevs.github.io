@@ -1,6 +1,5 @@
 ---
 title: npm、yarn、cnpm、npx、pnpm的区别
-star: true
 tag: 前端工程化
 date: 2023-12-16
 category: 前端开发

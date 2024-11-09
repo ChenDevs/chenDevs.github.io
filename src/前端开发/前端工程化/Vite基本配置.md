@@ -3,7 +3,6 @@ title: Vite基本配置
 tag: 前端工程化
 date: 2023-12-16
 category: 前端开发
-star: true
 ---
 
 基本常用配置
